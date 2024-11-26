@@ -117,22 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="UNKNOWN_ERROR" xml:space="preserve">
-    <value>Erro desconhecido.</value>
+  <data name="AMOUNT" xml:space="preserve">
+    <value>Valor</value>
   </data>
-  <data name="TITLE_REQUIRED" xml:space="preserve">
-    <value>O título é obrigatório.</value>
+  <data name="DATE" xml:space="preserve">
+    <value>Data</value>
   </data>
-  <data name="AMOUNT_MUST_BE_GREATER_THAN_ZERO" xml:space="preserve">
-    <value>O valor deve ser maior que zero.</value>
+  <data name="DESCRIPTION" xml:space="preserve">
+    <value>Descrição</value>
   </data>
-  <data name="EXPENSE_CANNOT_FOR_THE_FUTURE" xml:space="preserve">
-    <value>As despesa nao pode ser para o futuro.</value>
+  <data name="PAYMENT_TYPE" xml:space="preserve">
+    <value>Tipo de Pagamento</value>
   </data>
-  <data name="PAYMENT_TYPE_NOT_VALID" xml:space="preserve">
-    <value>Tipo de pagamento não é valido.</value>
+  <data name="TITLE" xml:space="preserve">
+    <value>Título</value>
   </data>
-  <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
-    <value>Despeza não encontrada.</value>
+  <data name="CASH" xml:space="preserve">
+    <value>Dinheiro</value>
+  </data>
+  <data name="CREDIT_CARD" xml:space="preserve">
+    <value>Cartão de Crédito</value>
+  </data>
+  <data name="DEBIT_CARD" xml:space="preserve">
+    <value>Cartão de Débito</value>
+  </data>
+  <data name="ELETRONIC_TRANSFER" xml:space="preserve">
+    <value>Transferência Bancária</value>
+  </data>
+  <data name="EXPENSE_FOR" xml:space="preserve">
+    <value>Despesas de</value>
+  </data>
+  <data name="TOTAL_SPENT_IN" xml:space="preserve">
+    <value>Total gasto em {0}</value>
   </data>
 </root>
